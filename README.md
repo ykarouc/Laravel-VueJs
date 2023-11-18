@@ -1,4 +1,4 @@
-# Laravel 9 Vue JS Point on Sell ( POS ) Application
+# Laravel / Vue js challange
 
 ![Image](1.PNG?raw=true "Image")
 
